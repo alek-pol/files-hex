@@ -1,0 +1,13 @@
+AllCops:
+  TargetRubyVersion: 3.0.1
+  NewCops: enable
+  SuggestExtensions: false
+  Exclude:
+#    - 'test/**/*'
+    - 'examples/**/*'
+    - 'config/**/*'
+    - 'db/schema.rb'
+#    - 'db/**/*'
+
+Style/Documentation:
+  Enabled: false
