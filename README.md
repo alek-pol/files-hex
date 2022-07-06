@@ -26,7 +26,7 @@ RAILS_ENV=production # для запуска приложения в production 
 RACK_ENV=production
 S3_ACCESS_KEY_ID= # Получено в AWS
 S3_BUCKET= # например rails-files-homework
-S3_REGION= # например eu-central-1
+S3_REGION= # например  eu-central-1
 S3_SECRET_ACCESS_KEY= # Получено в AWS
 ```
 
