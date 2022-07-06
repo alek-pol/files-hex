@@ -27,7 +27,8 @@ gem 'i18n-tasks'
 gem 'rails-i18n', '~> 6.0.0'
 gem 'simple_form'
 gem 'slim-rails', '~> 3.3.0'
-gem 'sqlite3', '~> 1.4'
+# gem 'sqlite3', '~> 1.4'
+gem 'pg'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
